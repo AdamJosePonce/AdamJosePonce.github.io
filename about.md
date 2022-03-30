@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a second-year mechanical engineering student at Cal Poly SLO. I am currently involved in Robotics Club and Supermileage Vehicle Club. I also enjoy spending time in the machine shops on-campus working on personal projects and projects for these clubs.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
