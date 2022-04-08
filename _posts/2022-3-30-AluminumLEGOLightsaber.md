@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Aluminum LEGO Lightsaber
