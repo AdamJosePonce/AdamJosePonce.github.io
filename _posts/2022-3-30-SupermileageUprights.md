@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supermileage Uprights, Tie Rods, and Rear Brake Mount
+title: Supermileage Parts for 2022 EV Car
 ---
 
 ![Alternative Text]( {{ site.baseurl }}/images/picture_filename.png )
