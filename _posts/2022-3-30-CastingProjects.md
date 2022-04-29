@@ -3,7 +3,7 @@ layout: post
 title: Aluminum Cast Projects
 ---
 
-![Alternative Text]( {{ site.baseurl }}/images/IMG_9626.jpg )
+![Alternative Text]( {{ site.baseurl }}/images/Castings.jpg )
 
 I made these projects during Fall Quarter of my freshman year as part of my IME 141 lab.
 
